@@ -1,3 +1,1 @@
-# Tomo
-Personal Repository
-Hi there!
+# About me
